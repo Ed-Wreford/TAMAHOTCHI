@@ -1,5 +1,5 @@
 //
-//  Stats.swift
+//  SomethingStats.swift
 //  Tamagotchi
 //
 //  Created by Wreford, Edward (PGW) on 24/01/2023.
